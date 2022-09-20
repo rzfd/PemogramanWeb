@@ -1,0 +1,208 @@
+/* Hero CSS start */
+body {
+  font-family: poppins;
+  background-color: #fbfbfb;
+}
+
+.navbar {
+  background-color: #fbfbfb;
+}
+
+.nav-item {
+  margin-right: 24px;
+  font-size: 18px;
+  text-align: left;
+}
+
+.dropdown-item:hover {
+  background-color: blue;
+  color: #fff;
+  transition: 0.5s;
+  display: inline-block;
+}
+
+header {
+  background-image: url(asset/foto/building.jpg);
+  background-size: cover;
+  padding: 310px 0 240px;
+}
+
+.text-hero h1,
+p {
+  color: white;
+}
+
+.text-hero h1 {
+  font-size: 80px;
+  font-weight: 500;
+  line-height: 130%;
+  color: #fff;
+}
+
+.text-hero p {
+  font-weight: 300;
+  line-height: 150%;
+  font-size: 20px;
+}
+
+.section-visit {
+  margin-top: -90px;
+}
+
+#visit {
+  padding: 80px;
+  padding-left: 5px;
+  background-color: rgb(1, 104, 36);
+  color: #fff;
+  font-size: 20px;
+  margin-bottom: 0;
+}
+
+#visit .bergabung {
+  color: #fff;
+}
+
+#visit:hover {
+  background-color: #121212;
+  transition: 0.5s;
+}
+
+.news {
+  margin-top: 150px;
+}
+
+.news h1 {
+  font-size: 56px;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.fakultas {
+  margin-top: 140px;
+}
+
+.fakultas h1 p {
+  padding-top: 60px;
+}
+
+.fakultas p {
+  font-size: 18px;
+}
+
+.text {
+  display: inline-block;
+}
+
+.benefit {
+  margin-top: 160px;
+}
+
+.asset {
+  margin-top: 40px;
+}
+
+.about-upj {
+  margin-top: 150px;
+  background-color: red;
+}
+
+.fa-facebook {
+  color: #fff;
+}
+
+footer {
+  background-color: #121212;
+  margin-top: 80px;
+  padding-top: 40px;
+}
+
+.test {
+  display: inline-block;
+}
+
+/* Hero CSS end */
+
+/* about start */
+.section-tentangkami-header {
+  min-height: 310px;
+  background: #ffffff;
+  margin-top: -90px;
+}
+
+.history-text h1 {
+  font-size: 56px;
+}
+
+.tentangkami-text {
+  font-size: 96px;
+  letter-spacing: -6px;
+  margin-bottom: 80px;
+}
+
+.history-sub {
+  line-height: 160%;
+  font-size: 18px;
+  color: #353535;
+}
+
+.visi-misi p {
+  color: #121212;
+}
+/* about end */
+
+/* pendaftaran start */
+/* pendaftaran end */
+
+/* prodi start */
+.prodi-section {
+  margin-top: 50px;
+}
+/* Informatika Start */
+.section-informatika-header {
+  min-height: 220px;
+  background: #ffffff;
+  margin-top: -70px;
+}
+
+.peminatan {
+  margin-top: 120px;
+}
+
+.minat {
+  margin-top: 60px;
+}
+
+.galeri-konten {
+  margin-top: 140px;
+}
+/* Informatika End */
+/* prodi end */
+
+/* contact us start */
+.section-kontak-header {
+  min-height: 220px;
+  background: #ffffff;
+  margin-top: -70px;
+}
+
+.kontak-text {
+  letter-spacing: 0.16px;
+  margin-bottom: 40px;
+}
+
+.btn-kirim {
+  margin-top: 20px;
+  height: 56px;
+  background-color: rgb(1, 104, 36);
+  border-radius: 10px;
+  font-size: 17px;
+}
+
+.btn-kirim:hover {
+  background-color: #121212;
+  transform: 0.5s;
+}
+
+/* contact us end */
